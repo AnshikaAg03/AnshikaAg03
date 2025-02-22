@@ -2,7 +2,7 @@
   <h1>Hi 👋, I'm Anshika</h1>
 </div>
 
-- 📫 How to reach me **anshika.gg2004@gmail.com**
+- 📫 How to reach me **anshikagwl2004@gmail.com**
 
 <div style="display: flex; justify-content: space-between;">
   <img alt="my stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=AnshikaAg03&show_icons=true"/>
